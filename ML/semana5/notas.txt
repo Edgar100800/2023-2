@@ -1,0 +1,3 @@
+lagrange nos permite concocer el punto de interseccion 
+Solo devemos recorrer aquellos puntos que esten dentro de nuestro support vector machine 
+una estructura que nos ayuda con "Convex Hull" que forma un poligono convexo mas pequeño que contiene todos los puntos
